@@ -87,6 +87,8 @@ h1, h2, h3, h4, h5, h6 {
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
     transition: 0.3s;
+        transition: 0.3s;
+    background-color: #3b840ba0; /* Cream background */
 }
 
 .fast-header.fixed-navbar {
